@@ -2,7 +2,7 @@
 
 ## Overview
 
-The "Customer Satisfaction" project is a web-based airline survey application designed to gather and analyze customer feedback. The project includes both frontend and backend components:
+The 'Customer Satisfaction' project is a web-based airline survey application designed to gather and analyze customer feedback from airline passengers. The project includes both frontend and backend components:
 - **Frontend**: Built with **React** to create a dynamic, user-friendly interface.
 - **Backend**: Powered by **Spring Boot** to handle API requests and business logic.
 - **Database**: **PostgreSQL** is used to store survey questions, answers, and related data.
